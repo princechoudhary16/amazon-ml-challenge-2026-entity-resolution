@@ -1,0 +1,11 @@
+# Python 3.12 (tested 3.12.14). macOS: LightGBM needs the OpenMP runtime -> brew install libomp
+lightgbm==4.7.0
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+pytest==9.1.1
+rapidfuzz==3.14.6
+scikit-learn==1.9.1
+scipy==1.18.1
+sparse-dot-topn==1.2.0
+unidecode==1.4.0
